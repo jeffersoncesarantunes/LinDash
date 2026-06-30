@@ -80,8 +80,3 @@ pip install pytest
 python -m pytest tests/
 ```
 
-## License
-
-[![License-MIT](https://img.shields.io/badge/License-MIT-E63946?style=flat-square&logo=opensourceinitiative&logoColor=white)](./LICENSE)
-
-*This project is licensed under the MIT License.*
